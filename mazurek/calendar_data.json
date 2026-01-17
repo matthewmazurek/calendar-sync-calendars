@@ -3,2824 +3,6 @@
     "events": [
       {
         "title": "New Year\u2019s Day",
-        "date": "2026-01-01"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-01-02",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Emergent Endo",
-        "date": "2026-01-02",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-01-05",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-01-05",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-01-06",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-01-06",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-01-07",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-01-08",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-01-09",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-01-12",
-        "start": "0900",
-        "end": "1200"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-01-12",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-01-13",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-01-13",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-01-14",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-01-15",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-01-16",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "CCSC AM",
-        "date": "2026-01-19",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-01-19",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-01-20",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-01-20",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-01-21",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-01-22",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-01-23",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic (with Carmen)",
-        "date": "2026-01-23",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-01-26",
-        "start": "0900",
-        "end": "1200",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-01-26",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-01-27",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-01-28",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-01-29",
-        "start": "1230",
-        "end": "1630"
-      },
-      {
-        "title": "Clinic (with Carmen)",
-        "date": "2026-01-29",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-01-30",
-        "start": "1230",
-        "end": "1630"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-01-30",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Arbor Day",
-        "date": "2026-02-02"
-      },
-      {
-        "title": "CCSC AM",
-        "date": "2026-02-02",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-02-02",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-02-03",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-02-03",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-02-04",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-02-05",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-02-05",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-02-06",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-02-06",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-02-09",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-02-10",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-02-10",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-02-11",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-02-12",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Emergent Clinic",
-        "date": "2026-02-12",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-02-13",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Shared Endo",
-        "date": "2026-02-13",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Family Day",
-        "date": "2026-02-16"
-      },
-      {
-        "title": "Primary on call",
-        "date": "2026-02-16",
-        "end_date": "2026-02-19",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "Primary on call 5:00 PM to 8:00 AM",
-        "date": "2026-02-16",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "Mardi Gras/Lunar New Year",
-        "date": "2026-02-17"
-      },
-      {
-        "title": "Ramadan start",
-        "date": "2026-02-18"
-      },
-      {
-        "title": "Primary on call 5:00 PM to 8:00 AM",
-        "date": "2026-02-18",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-02-20",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Emergent Clinic",
-        "date": "2026-02-20",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-02-23",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "GRIT",
-        "date": "2026-02-24",
-        "end_date": "2026-02-26"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-02-24",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-02-24",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-02-25",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-02-26",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-02-26",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CDDW",
-        "date": "2026-02-27",
-        "end_date": "2026-03-02"
-      },
-      {
-        "title": "AWAY",
-        "date": "2026-02-27"
-      },
-      {
-        "title": "AWAY",
-        "date": "2026-03-02"
-      },
-      {
-        "title": "Purim",
-        "date": "2026-03-03"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-03-03",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-03-03",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-03-04",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-03-05",
-        "start": "1230",
-        "end": "1630"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-03-06",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Emergent Endo",
-        "date": "2026-03-06",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Daylight Savings",
-        "date": "2026-03-08"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-03-09",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Endo on call",
-        "date": "2026-03-09",
-        "end_date": "2026-03-13",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Endo"
-      },
-      {
-        "title": "On call",
-        "date": "2026-03-10",
-        "end_date": "2026-03-10",
-        "location_id": "work",
-        "type": "on_call"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-03-12",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "On call",
-        "date": "2026-03-12",
-        "end_date": "2026-03-12",
-        "location_id": "work",
-        "type": "on_call"
-      },
-      {
-        "title": "CCSC AM",
-        "date": "2026-03-16",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-03-16",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC PM",
-        "date": "2026-03-17",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-03-17",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-03-18",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-03-19",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-03-19",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Eid ul Fitr",
-        "date": "2026-03-20"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-03-20",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-03-20",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-03-23",
-        "start": "0900",
-        "end": "1200",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-03-23",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-03-24",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-03-24",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-03-25",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-03-26",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-03-27",
-        "start": "1230",
-        "end": "1630"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-03-27",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "CCSC AM",
-        "date": "2026-03-30",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Shared Endo",
-        "date": "2026-03-30",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-03-31",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-03-31",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-04-01",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "AWAY",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "Passover start",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "Good Friday",
-        "date": "2026-04-03"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-04-06",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-04-07",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-04-07",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-04-08",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Passover end",
-        "date": "2026-04-09"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-04-09",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-04-09",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Primary on call",
-        "date": "2026-04-10",
-        "end_date": "2026-04-12",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "Post call",
-        "date": "2026-04-13"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-04-14",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-04-14",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-04-15",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-04-16",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-04-17",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-04-17",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-04-20",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-04-21",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-04-21",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-04-22",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-04-23",
-        "start": "1230",
-        "end": "1630"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-04-23",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-04-24",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Primary on call",
-        "date": "2026-04-27",
-        "end_date": "2026-04-30",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "Primary on call 5:00 PM to 8:00 AM",
-        "date": "2026-04-27",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "Primary on call 5:00 PM to 8:00 AM",
-        "date": "2026-04-29",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "AWAY",
-        "date": "2026-05-01"
-      },
-      {
-        "title": "DDW",
-        "date": "2026-05-02",
-        "end_date": "2026-05-05"
-      },
-      {
-        "title": "AWAY",
-        "date": "2026-05-04",
-        "end_date": "2026-05-05"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-05-06",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-05-07",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-05-07",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-05-08",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Emergent Endo",
-        "date": "2026-05-08",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-05-11",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-05-12",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-05-12",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-05-13",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-05-14",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-05-15",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-05-15",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Victoria Day",
-        "date": "2026-05-18"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-05-19",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-05-20",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-05-21",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-05-21",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Shavuot",
-        "date": "2026-05-22"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-05-22",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-05-22",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-05-25",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-05-26",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-05-26",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Eid al-Adha/ EASL",
-        "date": "2026-05-27"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-05-27",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "EASL",
-        "date": "2026-05-28",
-        "end_date": "2026-05-30"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-05-28",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-05-28",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-05-29",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-06-01",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-06-02",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-06-02",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-06-03",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-06-04",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-06-05",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-06-05",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-06-08",
-        "start": "1230",
-        "end": "1630"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-06-08",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-06-09",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-06-09",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-06-10",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-06-11",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Primary on call",
-        "date": "2026-06-12",
-        "end_date": "2026-06-14",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "Post call",
-        "date": "2026-06-15"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-06-16",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-06-16",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Muharram/ UEGW",
-        "date": "2026-06-17"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-06-17",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "UEGW",
-        "date": "2026-06-18",
-        "end_date": "2026-06-20"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-06-18",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-06-18",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-06-19",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-06-19",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Indigenous Day",
-        "date": "2026-06-21"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-06-22",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-06-22",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-06-23",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-06-23",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-06-24",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Shared Endo",
-        "date": "2026-06-25",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Ashura",
-        "date": "2026-06-26"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-06-26",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-06-29",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-06-29",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-06-30",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-06-30",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Canada Day",
-        "date": "2026-07-01"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-07-02",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-07-03",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-07-06",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-07-06",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-07-07",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-07-07",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-07-08",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-07-09",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-07-10",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-07-13",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-07-13",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-07-14",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-07-15",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-07-16",
-        "start": "0730",
-        "end": "1200"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-07-16",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-07-17",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-07-20",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Endo on call",
-        "date": "2026-07-20",
-        "end_date": "2026-07-24",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Endo"
-      },
-      {
-        "title": "On call",
-        "date": "2026-07-21",
-        "end_date": "2026-07-21",
-        "location_id": "work",
-        "type": "on_call"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-07-23",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "On call",
-        "date": "2026-07-23",
-        "end_date": "2026-07-23",
-        "location_id": "work",
-        "type": "on_call"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-07-27",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-07-28",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-07-28",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-07-29",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-07-30",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-07-31",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-07-31",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Civic Holiday",
-        "date": "2026-08-03"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-08-04",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-08-04",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-08-05",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-08-06",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-08-06",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-08-07",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-08-07",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-08-10",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-08-11",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-08-11",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-08-12",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-08-13",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-08-14",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-08-14",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-08-17",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-08-17",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-08-18",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-08-18",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-08-19",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-08-20",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-08-21",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-08-24",
-        "start": "1230",
-        "end": "1630"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-08-25",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-08-25",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Mawlid",
-        "date": "2026-08-26"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-08-26",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-08-27",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-08-27",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-08-28",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-08-31",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-08-31",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-09-01",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-09-01",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-09-02",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-09-03",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-09-04",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Labour Day",
-        "date": "2026-09-07"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-09-08",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-09-08",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-09-09",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-09-10",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-09-10",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-09-11",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Emergent Endo",
-        "date": "2026-09-11",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Rosh Hashana",
-        "date": "2026-09-12"
-      },
-      {
-        "title": "Shared Endo",
-        "date": "2026-09-14",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-09-15",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-09-15",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-09-16",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-09-17",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-09-18",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-09-18",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Yom Kippur",
-        "date": "2026-09-21"
-      },
-      {
-        "title": "Primary on call",
-        "date": "2026-09-21",
-        "end_date": "2026-09-24",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "Primary on call 5:00 PM to 8:00 AM",
-        "date": "2026-09-21",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "Primary on call 5:00 PM to 8:00 AM",
-        "date": "2026-09-23",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "Post call",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Sukkot",
-        "date": "2026-09-26"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-09-28",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-09-28",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-09-29",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-09-29",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Truth and Reconciliation Day",
-        "date": "2026-09-30"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-10-01",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Hoshana Rabbah",
-        "date": "2026-10-02"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-10-02",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Shemini Atzeret",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "Simchat Torah",
-        "date": "2026-10-04"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-10-06",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-10-06",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-10-07",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-10-08",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-10-09",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-10-09",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Thanksgiving Day",
-        "date": "2026-10-12"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-10-13",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-10-13",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-10-14",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-10-15",
-        "start": "1230",
-        "end": "1630"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-10-15",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-10-16",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-10-19",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-10-19",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-10-20",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-10-20",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-10-21",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-10-22",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-10-23",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-10-26",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-10-26",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-10-27",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-10-27",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-10-28",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Shared Endo",
-        "date": "2026-10-29",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-10-30",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Daylight Savings",
-        "date": "2026-11-01"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-11-03",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-11-03",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-11-04",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-11-05",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-11-05",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-11-06",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-11-06",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-11-09",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-11-09",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-11-10",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-11-10",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Remembrance",
-        "date": "2026-11-11"
-      },
-      {
-        "title": "Day",
-        "date": "2026-11-11"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-11-12",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-11-13",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-11-16",
-        "start": "1230",
-        "end": "1630"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-11-17",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-11-17",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-11-18",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-11-19",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-11-20",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Emergent Endo",
-        "date": "2026-11-20",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-11-23",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-11-23",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-11-24",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-11-24",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-11-25",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-11-26",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-11-27",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-11-30",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-12-01",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-12-01",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-12-02",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-12-03",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-12-03",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-12-04",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Hanukkah start",
-        "date": "2026-12-05"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-12-07",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-12-07",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-12-08",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-12-08",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-12-09",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-12-10",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-12-11",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Hanukkah end",
-        "date": "2026-12-12"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-12-14",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-12-14",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-12-15",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-12-15",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-12-16",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-12-17",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "CCSC",
-        "date": "2026-12-18",
-        "start": "0730",
-        "end": "1200",
-        "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "DTP",
-        "date": "2026-12-21",
-        "start": "1230",
-        "end": "1630"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-12-21",
-        "start": "0800",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "TSE Clinic",
-        "date": "2026-12-22",
-        "start": "0830",
-        "end": "1200",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Clinic",
-        "date": "2026-12-22",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "ADMIN DAY",
-        "date": "2026-12-23",
-        "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-12-24",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Christmas Day",
-        "date": "2026-12-25"
-      },
-      {
-        "title": "Kwanzaa",
-        "date": "2026-12-26"
-      },
-      {
-        "title": "Boxing day",
-        "date": "2026-12-26"
-      },
-      {
-        "title": "Lieu Stat",
-        "date": "2026-12-28"
-      },
-      {
-        "title": "Primary on call",
-        "date": "2026-12-29",
-        "end_date": "2026-12-30",
-        "location_id": "work",
-        "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "Endo",
-        "date": "2026-12-31",
-        "start": "1230",
-        "end": "1630",
-        "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "New Year\u2019s Day",
         "date": "2025-01-01"
       },
       {
@@ -5473,14 +2655,2856 @@
         "title": "VACATION",
         "date": "2025-12-29",
         "end_date": "2025-12-31"
+      },
+      {
+        "title": "New Year\u2019s Day",
+        "date": "2026-01-01"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-01-02",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Emergent Endo",
+        "date": "2026-01-02",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-01-05",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-01-05",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-01-06",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-01-06",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-01-07",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-01-08",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-01-09",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-01-12",
+        "start": "0900",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-01-12",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-01-13",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-01-13",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-01-14",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-01-15",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-01-16",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "CCSC AM",
+        "date": "2026-01-19",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-01-19",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-01-20",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-01-20",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-01-21",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-01-22",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-01-23",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic (with Carmen)",
+        "date": "2026-01-23",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-01-26",
+        "start": "0900",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-01-26",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-01-27",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-01-28",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-01-29",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic (with Carmen)",
+        "date": "2026-01-29",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-01-30",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-01-30",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Arbor Day",
+        "date": "2026-02-02"
+      },
+      {
+        "title": "CCSC AM",
+        "date": "2026-02-02",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-02-02",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-02-03",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-02-03",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-02-04",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-02-05",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-02-05",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-02-06",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-02-06",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-02-09",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-02-10",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-02-10",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-02-11",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-02-12",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Emergent Clinic",
+        "date": "2026-02-12",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-02-13",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Shared Endo",
+        "date": "2026-02-13",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Family Day",
+        "date": "2026-02-16"
+      },
+      {
+        "title": "Primary on call",
+        "date": "2026-02-16",
+        "end_date": "2026-02-19",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "Primary on call 5:00 PM to 8:00 AM",
+        "date": "2026-02-16",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "Mardi Gras/Lunar New Year",
+        "date": "2026-02-17"
+      },
+      {
+        "title": "Ramadan start",
+        "date": "2026-02-18"
+      },
+      {
+        "title": "Primary on call 5:00 PM to 8:00 AM",
+        "date": "2026-02-18",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-02-20",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Emergent Clinic",
+        "date": "2026-02-20",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-02-23",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "GRIT",
+        "date": "2026-02-24",
+        "end_date": "2026-02-26"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-02-24",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-02-24",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-02-25",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-02-26",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-02-26",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CDDW",
+        "date": "2026-02-27",
+        "end_date": "2026-03-02"
+      },
+      {
+        "title": "AWAY",
+        "date": "2026-02-27"
+      },
+      {
+        "title": "AWAY",
+        "date": "2026-03-02"
+      },
+      {
+        "title": "Purim",
+        "date": "2026-03-03"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-03-03",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-03-03",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-03-04",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-03-05",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-03-06",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Emergent Endo",
+        "date": "2026-03-06",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Daylight Savings",
+        "date": "2026-03-08"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-03-09",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo on call",
+        "date": "2026-03-09",
+        "end_date": "2026-03-13",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Endo"
+      },
+      {
+        "title": "On call",
+        "date": "2026-03-10",
+        "end_date": "2026-03-10",
+        "location_id": "work",
+        "type": "on_call"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-03-12",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "On call",
+        "date": "2026-03-12",
+        "end_date": "2026-03-12",
+        "location_id": "work",
+        "type": "on_call"
+      },
+      {
+        "title": "CCSC AM",
+        "date": "2026-03-16",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-03-16",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC PM",
+        "date": "2026-03-17",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-03-17",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-03-18",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-03-19",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-03-19",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Eid ul Fitr",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-03-20",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-03-20",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-03-23",
+        "start": "0900",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-03-23",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-03-24",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-03-24",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-03-25",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-03-26",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-03-27",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-03-27",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC AM",
+        "date": "2026-03-30",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Shared Endo",
+        "date": "2026-03-30",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-03-31",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-03-31",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-04-01",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "AWAY",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "Passover start",
+        "date": "2026-04-02"
+      },
+      {
+        "title": "Good Friday",
+        "date": "2026-04-03"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-04-06",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-04-07",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-04-07",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-04-08",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Passover end",
+        "date": "2026-04-09"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-04-09",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-04-09",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Primary on call",
+        "date": "2026-04-10",
+        "end_date": "2026-04-12",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "Post call",
+        "date": "2026-04-13"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-04-14",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-04-14",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-04-15",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-04-16",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-04-17",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-04-17",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-04-20",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-04-21",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-04-21",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-04-22",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-04-23",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-04-23",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-04-24",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Primary on call",
+        "date": "2026-04-27",
+        "end_date": "2026-04-30",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "Primary on call 5:00 PM to 8:00 AM",
+        "date": "2026-04-27",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "Primary on call 5:00 PM to 8:00 AM",
+        "date": "2026-04-29",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "AWAY",
+        "date": "2026-05-01"
+      },
+      {
+        "title": "DDW",
+        "date": "2026-05-02",
+        "end_date": "2026-05-05"
+      },
+      {
+        "title": "AWAY",
+        "date": "2026-05-04",
+        "end_date": "2026-05-05"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-05-06",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-05-07",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-05-07",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-05-08",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Emergent Endo",
+        "date": "2026-05-08",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-05-11",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-05-12",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-05-12",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-05-13",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-05-14",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-05-15",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-05-15",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Victoria Day",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-05-19",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-05-20",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-05-21",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-05-21",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Shavuot",
+        "date": "2026-05-22"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-05-22",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-05-22",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-05-25",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-05-26",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-05-26",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Eid al-Adha/ EASL",
+        "date": "2026-05-27"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-05-27",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "EASL",
+        "date": "2026-05-28",
+        "end_date": "2026-05-30"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-05-28",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-05-28",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-05-29",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-06-01",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-06-02",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-06-02",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-06-03",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-06-04",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-06-05",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-06-05",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-06-08",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-06-08",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-06-09",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-06-09",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-06-10",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-06-11",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Primary on call",
+        "date": "2026-06-12",
+        "end_date": "2026-06-14",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "Post call",
+        "date": "2026-06-15"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-06-16",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-06-16",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Muharram/ UEGW",
+        "date": "2026-06-17"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-06-17",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "UEGW",
+        "date": "2026-06-18",
+        "end_date": "2026-06-20"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-06-18",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-06-18",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-06-19",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-06-19",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Indigenous Day",
+        "date": "2026-06-21"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-06-22",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-06-22",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-06-23",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-06-23",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-06-24",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Shared Endo",
+        "date": "2026-06-25",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Ashura",
+        "date": "2026-06-26"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-06-26",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-06-29",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-06-29",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-06-30",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-06-30",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Canada Day",
+        "date": "2026-07-01"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-07-02",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-07-03",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-07-06",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-07-06",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-07-07",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-07-07",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-07-08",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-07-09",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-07-10",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-07-13",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-07-13",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-07-14",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-07-15",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-07-16",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-07-16",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-07-17",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-07-20",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo on call",
+        "date": "2026-07-20",
+        "end_date": "2026-07-24",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Endo"
+      },
+      {
+        "title": "On call",
+        "date": "2026-07-21",
+        "end_date": "2026-07-21",
+        "location_id": "work",
+        "type": "on_call"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-07-23",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "On call",
+        "date": "2026-07-23",
+        "end_date": "2026-07-23",
+        "location_id": "work",
+        "type": "on_call"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-07-27",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-07-28",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-07-28",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-07-29",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-07-30",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-07-31",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-07-31",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Civic Holiday",
+        "date": "2026-08-03"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-08-04",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-08-04",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-08-05",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-08-06",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-08-06",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-08-07",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-08-07",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-08-10",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-08-11",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-08-11",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-08-12",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-08-13",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-08-14",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-08-14",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-08-17",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-08-17",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-08-18",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-08-18",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-08-19",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-08-20",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-08-21",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-08-24",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-08-25",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-08-25",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Mawlid",
+        "date": "2026-08-26"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-08-26",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-08-27",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-08-27",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-08-28",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-08-31",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-08-31",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-09-01",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-09-01",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-09-02",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-09-03",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-09-04",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Labour Day",
+        "date": "2026-09-07"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-09-08",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-09-08",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-09-09",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-09-10",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-09-10",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-09-11",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Emergent Endo",
+        "date": "2026-09-11",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Rosh Hashana",
+        "date": "2026-09-12"
+      },
+      {
+        "title": "Shared Endo",
+        "date": "2026-09-14",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-09-15",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-09-15",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-09-16",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-09-17",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-09-18",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-09-18",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Yom Kippur",
+        "date": "2026-09-21"
+      },
+      {
+        "title": "Primary on call",
+        "date": "2026-09-21",
+        "end_date": "2026-09-24",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "Primary on call 5:00 PM to 8:00 AM",
+        "date": "2026-09-21",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "Primary on call 5:00 PM to 8:00 AM",
+        "date": "2026-09-23",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "Post call",
+        "date": "2026-09-25"
+      },
+      {
+        "title": "Sukkot",
+        "date": "2026-09-26"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-09-28",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-09-28",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-09-29",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-09-29",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Truth and Reconciliation Day",
+        "date": "2026-09-30"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-10-01",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Hoshana Rabbah",
+        "date": "2026-10-02"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-10-02",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Shemini Atzeret",
+        "date": "2026-10-03"
+      },
+      {
+        "title": "Simchat Torah",
+        "date": "2026-10-04"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-10-06",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-10-06",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-10-07",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-10-08",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-10-09",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-10-09",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Thanksgiving Day",
+        "date": "2026-10-12"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-10-13",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-10-13",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-10-14",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-10-15",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-10-15",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-10-16",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-10-19",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-10-19",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-10-20",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-10-20",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-10-21",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-10-22",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-10-23",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-10-26",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-10-26",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-10-27",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-10-27",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-10-28",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Shared Endo",
+        "date": "2026-10-29",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-10-30",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Daylight Savings",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-11-03",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-11-03",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-11-04",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-11-05",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-11-05",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-11-06",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-11-06",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-11-09",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-11-09",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-11-10",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-11-10",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Remembrance",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Day",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-11-12",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-11-13",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-11-16",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-11-17",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-11-17",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-11-18",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-11-19",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-11-20",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Emergent Endo",
+        "date": "2026-11-20",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-11-23",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-11-23",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-11-24",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-11-24",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-11-25",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-11-26",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-11-27",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-11-30",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-12-01",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-12-01",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-12-02",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-12-03",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-12-03",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-12-04",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Hanukkah start",
+        "date": "2026-12-05"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-12-07",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-12-07",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-12-08",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-12-08",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-12-09",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-12-10",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-12-11",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "Hanukkah end",
+        "date": "2026-12-12"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-12-14",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-12-14",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-12-15",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-12-15",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-12-16",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-12-17",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "CCSC",
+        "date": "2026-12-18",
+        "start": "0730",
+        "end": "1200",
+        "location_id": "work",
+        "type": "ccsc"
+      },
+      {
+        "title": "DTP",
+        "date": "2026-12-21",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-12-21",
+        "start": "0800",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "TSE Clinic",
+        "date": "2026-12-22",
+        "start": "0830",
+        "end": "1200",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "Clinic",
+        "date": "2026-12-22",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "clinic"
+      },
+      {
+        "title": "ADMIN DAY",
+        "date": "2026-12-23",
+        "location_id": "office",
+        "type": "admin"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-12-24",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
+      },
+      {
+        "title": "Christmas Day",
+        "date": "2026-12-25"
+      },
+      {
+        "title": "Kwanzaa",
+        "date": "2026-12-26"
+      },
+      {
+        "title": "Boxing day",
+        "date": "2026-12-26"
+      },
+      {
+        "title": "Lieu Stat",
+        "date": "2026-12-28"
+      },
+      {
+        "title": "Primary on call",
+        "date": "2026-12-29",
+        "end_date": "2026-12-30",
+        "location_id": "work",
+        "type": "on_call",
+        "label": "Primary"
+      },
+      {
+        "title": "Endo",
+        "date": "2026-12-31",
+        "start": "1230",
+        "end": "1630",
+        "location_id": "work",
+        "type": "endoscopy"
       }
     ]
   },
   "metadata": {
     "name": "mazurek",
     "created": "2026-01-01T23:47:04.690385",
-    "last_updated": "2026-01-16T18:32:37.640531",
-    "source_revised_at": "2025-11-21",
+    "last_updated": "2026-01-17T00:54:03.642516",
+    "source_revised_at": "2026-01-13",
     "template_name": "mazurek",
     "template_version": "1.0"
   }
