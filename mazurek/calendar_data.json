@@ -3,11 +3,13 @@
     "events": [
       {
         "title": "New Year\u2019s Day",
-        "date": "2025-01-01"
+        "date": "2025-01-01",
+        "busy": true
       },
       {
         "title": "Hanukkah ends",
-        "date": "2025-01-02"
+        "date": "2025-01-02",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -15,7 +17,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -23,7 +26,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -31,7 +35,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -39,7 +44,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -47,7 +53,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -55,13 +62,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-01-08",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -69,7 +78,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -77,7 +87,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -85,7 +96,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -93,7 +105,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -101,7 +114,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -109,7 +123,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -117,13 +132,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-01-15",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -131,7 +148,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -139,11 +157,13 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "WCGH",
-        "date": "2025-01-17"
+        "date": "2025-01-17",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -151,7 +171,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -159,7 +180,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -167,7 +189,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic AM (add on)",
@@ -175,7 +198,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -183,7 +207,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -191,19 +216,22 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-01-22",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "DTP",
         "date": "2025-01-23",
         "start": "1230",
-        "end": "1630"
+        "end": "1630",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -211,7 +239,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -219,7 +248,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Emergent Clinic",
@@ -227,7 +257,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo on call",
@@ -235,18 +266,21 @@
         "end_date": "2025-01-31",
         "location_id": "work",
         "type": "on_call",
-        "label": "Endo"
+        "label": "Endo",
+        "busy": true
       },
       {
         "title": "on call",
         "date": "2025-01-28",
         "end_date": "2025-01-28",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "Lunar New Year",
-        "date": "2025-01-29"
+        "date": "2025-01-29",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -254,14 +288,16 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "on call",
         "date": "2025-01-30",
         "end_date": "2025-01-30",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -269,7 +305,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -277,7 +314,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -285,13 +323,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-02-05",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -299,7 +339,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -307,7 +348,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -315,7 +357,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -323,7 +366,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -331,7 +375,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -339,7 +384,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -347,7 +393,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -355,13 +402,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-02-12",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -369,7 +418,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -377,7 +427,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -385,11 +436,13 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Family Day",
-        "date": "2025-02-17"
+        "date": "2025-02-17",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -397,44 +450,52 @@
         "end_date": "2025-02-20",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2025-02-18",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2025-02-20",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Post Call",
-        "date": "2025-02-21"
+        "date": "2025-02-21",
+        "busy": true
       },
       {
         "title": "Clinic cxd Jan 2/25",
         "date": "2025-02-24",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "CDDW",
         "date": "2025-02-25",
-        "end_date": "2025-02-28"
+        "end_date": "2025-02-28",
+        "busy": true
       },
       {
         "title": "Ramadan begins CDDW",
-        "date": "2025-03-01"
+        "date": "2025-03-01",
+        "busy": true
       },
       {
         "title": "CDDW",
-        "date": "2025-03-02"
+        "date": "2025-03-02",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -442,11 +503,13 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Mardi Gras",
-        "date": "2025-03-04"
+        "date": "2025-03-04",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -454,7 +517,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -462,17 +526,20 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Ash Wednesday",
-        "date": "2025-03-05"
+        "date": "2025-03-05",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-03-05",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -480,7 +547,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -488,7 +556,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -496,7 +565,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -504,11 +574,13 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Daylight Savings",
-        "date": "2025-03-09"
+        "date": "2025-03-09",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -516,7 +588,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -524,7 +597,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -532,13 +606,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-03-12",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -546,7 +622,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -554,17 +631,20 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "DTP",
         "date": "2025-03-14",
         "start": "1230",
-        "end": "1630"
+        "end": "1630",
+        "busy": true
       },
       {
         "title": "Holi/Purim",
-        "date": "2025-03-14"
+        "date": "2025-03-14",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -572,7 +652,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -580,7 +661,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -588,7 +670,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "CCSC PM",
@@ -596,7 +679,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -604,23 +688,27 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-03-19",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "AWAY",
         "date": "2025-03-20",
-        "end_date": "2025-03-21"
+        "end_date": "2025-03-21",
+        "busy": true
       },
       {
         "title": "AWAY",
         "date": "2025-03-24",
-        "end_date": "2025-03-26"
+        "end_date": "2025-03-26",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -628,7 +716,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -636,13 +725,15 @@
         "start": "0900",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "DTP",
         "date": "2025-03-28",
         "start": "0900",
-        "end": "1200"
+        "end": "1200",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -650,11 +741,13 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Eid al-Fitr",
-        "date": "2025-03-31"
+        "date": "2025-03-31",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -662,7 +755,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -670,7 +764,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -678,13 +773,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-04-02",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -692,7 +789,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -700,7 +798,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -708,7 +807,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -716,7 +816,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -724,7 +825,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -732,7 +834,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -740,13 +843,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-04-09",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -754,7 +859,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -762,7 +868,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -770,11 +877,13 @@
         "end_date": "2025-04-13",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Passover begins",
-        "date": "2025-04-13"
+        "date": "2025-04-13",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -782,7 +891,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "ADMIN AM",
@@ -790,7 +900,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -798,7 +909,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -806,19 +918,22 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-04-16",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "DTP",
         "date": "2025-04-17",
         "start": "1230",
-        "end": "1630"
+        "end": "1630",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -826,21 +941,25 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Good Friday",
-        "date": "2025-04-18"
+        "date": "2025-04-18",
+        "busy": true
       },
       {
         "title": "Passover ends",
-        "date": "2025-04-20"
+        "date": "2025-04-20",
+        "busy": true
       },
       {
         "title": "Clinic moved to May 2 on Apr 7/25",
         "date": "2025-04-21",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -848,7 +967,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -856,13 +976,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-04-23",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -870,7 +992,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -878,7 +1001,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -886,7 +1010,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -894,7 +1019,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -902,7 +1028,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -910,7 +1037,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -918,13 +1046,15 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-04-30",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -932,7 +1062,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -940,7 +1071,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -948,7 +1080,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -956,12 +1089,14 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "DDW",
         "date": "2025-05-03",
-        "end_date": "2025-05-06"
+        "end_date": "2025-05-06",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -969,30 +1104,35 @@
         "end_date": "2025-05-08",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2025-05-05",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "EASL",
         "date": "2025-05-07",
-        "end_date": "2025-05-10"
+        "end_date": "2025-05-10",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2025-05-07",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Post Call",
-        "date": "2025-05-09"
+        "date": "2025-05-09",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -1000,7 +1140,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1008,19 +1149,22 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic moved to May 30",
         "date": "2025-05-13",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-05-14",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1028,7 +1172,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1036,7 +1181,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1044,7 +1190,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Phone Clinic",
@@ -1052,11 +1199,13 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Victoria Day",
-        "date": "2025-05-19"
+        "date": "2025-05-19",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1064,7 +1213,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1072,13 +1222,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-05-21",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1086,7 +1238,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1094,7 +1247,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -1102,7 +1256,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1110,7 +1265,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1118,7 +1274,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1126,7 +1283,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1134,19 +1292,22 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-05-28",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "DTP",
         "date": "2025-05-29",
         "start": "1230",
-        "end": "1630"
+        "end": "1630",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1154,7 +1315,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1162,7 +1324,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1170,11 +1333,13 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Shavuot",
-        "date": "2025-06-02"
+        "date": "2025-06-02",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1182,14 +1347,16 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo on call",
         "date": "2025-06-02",
         "location_id": "work",
         "type": "on_call",
-        "label": "Endo"
+        "label": "Endo",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1197,19 +1364,22 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic moved to June 6/25",
         "date": "2025-06-03",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-06-04",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1217,7 +1387,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1225,7 +1396,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1233,7 +1405,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1241,11 +1414,13 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Eid al-Adha",
-        "date": "2025-06-07"
+        "date": "2025-06-07",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1253,7 +1428,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Fu Clinic",
@@ -1261,7 +1437,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo on call",
@@ -1269,14 +1446,16 @@
         "end_date": "2025-06-11",
         "location_id": "work",
         "type": "on_call",
-        "label": "Endo"
+        "label": "Endo",
+        "busy": true
       },
       {
         "title": "on call",
         "date": "2025-06-10",
         "end_date": "2025-06-10",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1284,7 +1463,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1292,7 +1472,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1300,7 +1481,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1308,13 +1490,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-06-18",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -1322,7 +1506,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1330,7 +1515,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1338,7 +1524,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1346,7 +1533,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1354,7 +1542,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1362,13 +1551,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-06-25",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1376,7 +1567,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo on call",
@@ -1384,14 +1576,16 @@
         "end_date": "2025-06-27",
         "location_id": "work",
         "type": "on_call",
-        "label": "Endo"
+        "label": "Endo",
+        "busy": true
       },
       {
         "title": "on call",
         "date": "2025-06-26",
         "end_date": "2025-06-26",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1399,7 +1593,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1407,21 +1602,25 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Canada Day",
-        "date": "2025-07-01"
+        "date": "2025-07-01",
+        "busy": true
       },
       {
         "title": "VACATION",
         "date": "2025-07-02",
-        "end_date": "2025-07-04"
+        "end_date": "2025-07-04",
+        "busy": true
       },
       {
         "title": "VACATION",
         "date": "2025-07-07",
-        "end_date": "2025-07-11"
+        "end_date": "2025-07-11",
+        "busy": true
       },
       {
         "title": "Endo on call",
@@ -1429,14 +1628,16 @@
         "end_date": "2025-07-18",
         "location_id": "work",
         "type": "on_call",
-        "label": "Endo"
+        "label": "Endo",
+        "busy": true
       },
       {
         "title": "on call",
         "date": "2025-07-15",
         "end_date": "2025-07-15",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1444,14 +1645,16 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "on call",
         "date": "2025-07-17",
         "end_date": "2025-07-17",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1459,7 +1662,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Fu clinic",
@@ -1467,7 +1671,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1475,7 +1680,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1483,13 +1689,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-07-23",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1497,7 +1705,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1505,7 +1714,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1513,7 +1723,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -1521,7 +1732,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1529,7 +1741,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1537,13 +1750,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-07-30",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1551,7 +1766,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1559,15 +1775,18 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Tish B-Av",
-        "date": "2025-08-03"
+        "date": "2025-08-03",
+        "busy": true
       },
       {
         "title": "Civic Holiday",
-        "date": "2025-08-04"
+        "date": "2025-08-04",
+        "busy": true
       },
       {
         "title": "CXD Clinic",
@@ -1575,13 +1794,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-08-06",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1589,7 +1810,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1597,7 +1819,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1605,7 +1828,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1613,7 +1837,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic (r/s from Aug 5/25)",
@@ -1621,7 +1846,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1629,7 +1855,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1637,13 +1864,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-08-13",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1651,7 +1880,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1659,7 +1889,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1667,7 +1898,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1675,7 +1907,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1683,7 +1916,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1691,7 +1925,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1699,19 +1934,22 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-08-20",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "DTP",
         "date": "2025-08-21",
         "start": "1230",
-        "end": "1630"
+        "end": "1630",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1719,7 +1957,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1727,7 +1966,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1735,7 +1975,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1743,7 +1984,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1751,7 +1993,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1759,13 +2002,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-08-27",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1773,7 +2018,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1781,7 +2027,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -1789,7 +2036,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1797,11 +2045,13 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Labour Day",
-        "date": "2025-09-01"
+        "date": "2025-09-01",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1809,7 +2059,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic (with Carmen)",
@@ -1817,13 +2068,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-09-03",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1831,11 +2084,13 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Mawlid",
-        "date": "2025-09-05"
+        "date": "2025-09-05",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1843,7 +2098,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1851,7 +2107,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo on call",
@@ -1859,14 +2116,16 @@
         "end_date": "2025-09-12",
         "location_id": "work",
         "type": "on_call",
-        "label": "Endo"
+        "label": "Endo",
+        "busy": true
       },
       {
         "title": "On call",
         "date": "2025-09-09",
         "end_date": "2025-09-09",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1874,7 +2133,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -1882,14 +2142,16 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "On call",
         "date": "2025-09-11",
         "end_date": "2025-09-11",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1897,7 +2159,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1905,7 +2168,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic (with Carmen)",
@@ -1913,13 +2177,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-09-17",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1927,7 +2193,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -1935,7 +2202,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic (with Carmen)",
@@ -1943,7 +2211,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -1951,7 +2220,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1959,11 +2229,13 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Rosh Hashana",
-        "date": "2025-09-23"
+        "date": "2025-09-23",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -1971,7 +2243,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -1979,23 +2252,27 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-09-24",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "DTP",
         "date": "2025-09-25",
         "start": "1230",
-        "end": "1630"
+        "end": "1630",
+        "busy": true
       },
       {
         "title": "ADDS",
-        "date": "2025-09-26"
+        "date": "2025-09-26",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2003,7 +2280,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2011,21 +2289,25 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Truth and Reconciliation Day",
-        "date": "2025-09-30"
+        "date": "2025-09-30",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-10-01",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Yom Kippur",
-        "date": "2025-10-02"
+        "date": "2025-10-02",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2033,7 +2315,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2041,7 +2324,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2049,12 +2333,14 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "UEGW",
         "date": "2025-10-04",
-        "end_date": "2025-10-06"
+        "end_date": "2025-10-06",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2062,11 +2348,13 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Sukkot UEGW",
-        "date": "2025-10-07"
+        "date": "2025-10-07",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2074,7 +2362,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2082,13 +2371,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-10-08",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2096,7 +2387,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -2104,7 +2396,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -2112,35 +2405,42 @@
         "end_date": "2025-10-12",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Hoshana Rabbah",
-        "date": "2025-10-13"
+        "date": "2025-10-13",
+        "busy": true
       },
       {
         "title": "Thanksgiving Day",
-        "date": "2025-10-13"
+        "date": "2025-10-13",
+        "busy": true
       },
       {
         "title": "Shemini Atzeret",
-        "date": "2025-10-14"
+        "date": "2025-10-14",
+        "busy": true
       },
       {
         "title": "TSE Clinic and",
         "date": "2025-10-14",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic cxd Sept 22/25",
         "date": "2025-10-14",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Simchat Torah",
-        "date": "2025-10-15"
+        "date": "2025-10-15",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2148,7 +2448,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2156,7 +2457,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2164,7 +2466,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2172,11 +2475,13 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Diwali",
-        "date": "2025-10-20"
+        "date": "2025-10-20",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2184,7 +2489,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2192,7 +2498,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2200,7 +2507,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2208,13 +2516,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-10-22",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2222,7 +2532,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2230,7 +2541,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2238,13 +2550,15 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "DTP",
         "date": "2025-10-27",
         "start": "1230",
-        "end": "1630"
+        "end": "1630",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2252,7 +2566,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2260,7 +2575,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2268,13 +2584,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-10-29",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2282,7 +2600,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2290,11 +2609,13 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Daylight Savings",
-        "date": "2025-11-02"
+        "date": "2025-11-02",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -2302,42 +2623,50 @@
         "end_date": "2025-11-06",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2025-11-03",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2025-11-05",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Post Call",
-        "date": "2025-11-07"
+        "date": "2025-11-07",
+        "busy": true
       },
       {
         "title": "AWAY",
-        "date": "2025-11-10"
+        "date": "2025-11-10",
+        "busy": true
       },
       {
         "title": "Remembrance",
-        "date": "2025-11-11"
+        "date": "2025-11-11",
+        "busy": true
       },
       {
         "title": "Day",
-        "date": "2025-11-11"
+        "date": "2025-11-11",
+        "busy": true
       },
       {
         "title": "AWAY",
         "date": "2025-11-12",
-        "end_date": "2025-11-14"
+        "end_date": "2025-11-14",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2345,7 +2674,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2353,7 +2683,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2361,13 +2692,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-11-19",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -2375,7 +2708,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2383,7 +2717,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -2391,7 +2726,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2399,7 +2735,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2407,7 +2744,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2415,7 +2753,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2423,7 +2762,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2431,19 +2771,22 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-11-26",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "DTP",
         "date": "2025-11-28",
         "start": "1230",
-        "end": "1630"
+        "end": "1630",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2451,7 +2794,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2459,7 +2803,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2467,7 +2812,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2475,13 +2821,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-12-03",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2489,7 +2837,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2497,13 +2846,15 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "DTP",
         "date": "2025-12-08",
         "start": "1230",
-        "end": "1630"
+        "end": "1630",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2511,7 +2862,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2519,13 +2871,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-12-10",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2533,7 +2887,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2541,7 +2896,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2549,11 +2905,13 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Hanukkah begins",
-        "date": "2025-12-15"
+        "date": "2025-12-15",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2561,7 +2919,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2569,7 +2928,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2577,7 +2937,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2585,13 +2946,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-12-17",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2599,7 +2962,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -2607,15 +2971,18 @@
         "end_date": "2025-12-21",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Hanukkah ends",
-        "date": "2025-12-22"
+        "date": "2025-12-22",
+        "busy": true
       },
       {
         "title": "Post Call",
-        "date": "2025-12-22"
+        "date": "2025-12-22",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2623,7 +2990,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2631,34 +2999,36 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2025-12-24",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Christmas Day",
-        "date": "2025-12-25"
+        "date": "2025-12-25",
+        "busy": true
       },
       {
         "title": "Kwanzaa",
-        "date": "2025-12-26"
+        "date": "2025-12-26",
+        "busy": true
       },
       {
         "title": "Boxing day",
-        "date": "2025-12-26"
+        "date": "2025-12-26",
+        "busy": true
       },
       {
         "title": "VACATION",
         "date": "2025-12-29",
-        "end_date": "2025-12-31"
-      },
-      {
-        "title": "New Year\u2019s Day",
-        "date": "2026-01-01"
+        "end_date": "2025-12-31",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2666,7 +3036,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -2674,7 +3045,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2682,7 +3054,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2690,7 +3063,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2698,7 +3072,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2706,13 +3081,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-01-07",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2720,7 +3097,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2728,7 +3106,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -2736,7 +3115,8 @@
         "start": "0900",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2744,7 +3124,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2752,7 +3133,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2760,13 +3142,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-01-14",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2774,7 +3158,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2782,7 +3167,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC AM",
@@ -2790,7 +3176,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2798,7 +3185,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2806,7 +3194,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2814,13 +3203,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-01-21",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2828,7 +3219,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2836,7 +3228,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic (with Carmen)",
@@ -2844,7 +3237,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2852,7 +3246,8 @@
         "start": "0900",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2860,7 +3255,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2868,13 +3264,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-01-28",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -2882,7 +3280,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic (with Carmen)",
@@ -2890,7 +3289,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2898,7 +3298,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -2906,11 +3307,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Arbor Day",
-        "date": "2026-02-02"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC AM",
@@ -2918,7 +3316,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2926,7 +3325,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2934,7 +3334,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2942,13 +3343,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-02-04",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2956,7 +3359,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -2964,7 +3368,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2972,7 +3377,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -2980,7 +3386,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -2988,7 +3395,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -2996,7 +3404,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3004,13 +3413,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-02-11",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3018,7 +3429,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Emergent Clinic",
@@ -3026,7 +3438,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3034,7 +3447,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -3042,11 +3456,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Family Day",
-        "date": "2026-02-16"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -3054,29 +3465,24 @@
         "end_date": "2026-02-19",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2026-02-16",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
-      },
-      {
-        "title": "Mardi Gras/Lunar New Year",
-        "date": "2026-02-17"
-      },
-      {
-        "title": "Ramadan start",
-        "date": "2026-02-18"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2026-02-18",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3084,7 +3490,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Emergent Clinic",
@@ -3092,7 +3499,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3100,12 +3508,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "GRIT",
-        "date": "2026-02-24",
-        "end_date": "2026-02-26"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3113,7 +3517,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3121,13 +3526,21 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
+      },
+      {
+        "title": "GRIT",
+        "date": "2026-02-24",
+        "end_date": "2026-02-26",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-02-25",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3135,7 +3548,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3143,24 +3557,26 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CDDW",
         "date": "2026-02-27",
-        "end_date": "2026-03-02"
+        "end_date": "2026-03-02",
+        "busy": true
       },
       {
         "title": "AWAY",
-        "date": "2026-02-27"
+        "date": "2026-02-27",
+        "type": "vacation",
+        "busy": false
       },
       {
         "title": "AWAY",
-        "date": "2026-03-02"
-      },
-      {
-        "title": "Purim",
-        "date": "2026-03-03"
+        "date": "2026-03-02",
+        "type": "vacation",
+        "busy": false
       },
       {
         "title": "TSE Clinic",
@@ -3168,7 +3584,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3176,13 +3593,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-03-04",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -3190,7 +3609,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3198,7 +3618,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -3206,11 +3627,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Daylight Savings",
-        "date": "2026-03-08"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3218,7 +3636,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo on call",
@@ -3226,14 +3645,16 @@
         "end_date": "2026-03-13",
         "location_id": "work",
         "type": "on_call",
-        "label": "Endo"
+        "label": "Endo",
+        "busy": true
       },
       {
         "title": "On call",
         "date": "2026-03-10",
         "end_date": "2026-03-10",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3241,14 +3662,16 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "On call",
         "date": "2026-03-12",
         "end_date": "2026-03-12",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "CCSC AM",
@@ -3256,7 +3679,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3264,7 +3688,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC PM",
@@ -3272,7 +3697,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3280,13 +3706,15 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-03-18",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3294,7 +3722,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3302,11 +3731,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Eid ul Fitr",
-        "date": "2026-03-20"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3314,7 +3740,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3322,7 +3749,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3330,7 +3758,8 @@
         "start": "0900",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3338,7 +3767,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3346,7 +3776,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3354,13 +3785,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-03-25",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3368,7 +3801,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3376,7 +3810,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -3384,7 +3819,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC AM",
@@ -3392,7 +3828,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -3400,7 +3837,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3408,7 +3846,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3416,25 +3855,21 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-04-01",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "AWAY",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "Passover start",
-        "date": "2026-04-02"
-      },
-      {
-        "title": "Good Friday",
-        "date": "2026-04-03"
+        "date": "2026-04-02",
+        "type": "vacation",
+        "busy": false
       },
       {
         "title": "Endo",
@@ -3442,7 +3877,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3450,7 +3886,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3458,17 +3895,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-04-08",
         "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "Passover end",
-        "date": "2026-04-09"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3476,7 +3911,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3484,7 +3920,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -3492,11 +3929,13 @@
         "end_date": "2026-04-12",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Post call",
-        "date": "2026-04-13"
+        "date": "2026-04-13",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3504,7 +3943,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3512,13 +3952,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-04-15",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3526,7 +3968,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3534,7 +3977,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3542,7 +3986,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3550,7 +3995,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3558,7 +4004,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3566,13 +4013,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-04-22",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3580,7 +4029,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -3588,7 +4038,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3596,7 +4047,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -3604,41 +4056,50 @@
         "end_date": "2026-04-30",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2026-04-27",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2026-04-29",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "AWAY",
-        "date": "2026-05-01"
+        "date": "2026-05-01",
+        "type": "vacation",
+        "busy": false
       },
       {
         "title": "DDW",
         "date": "2026-05-02",
-        "end_date": "2026-05-05"
+        "end_date": "2026-05-05",
+        "busy": true
       },
       {
         "title": "AWAY",
         "date": "2026-05-04",
-        "end_date": "2026-05-05"
+        "end_date": "2026-05-05",
+        "type": "vacation",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-05-06",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3646,7 +4107,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3654,7 +4116,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3662,7 +4125,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -3670,7 +4134,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3678,7 +4143,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3686,7 +4152,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3694,13 +4161,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-05-13",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3708,7 +4177,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3716,7 +4186,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3724,11 +4195,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Victoria Day",
-        "date": "2026-05-18"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3736,13 +4204,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-05-20",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3750,7 +4220,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3758,11 +4229,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Shavuot",
-        "date": "2026-05-22"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3770,7 +4238,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3778,7 +4247,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3786,7 +4256,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3794,7 +4265,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3802,22 +4274,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Eid al-Adha/ EASL",
-        "date": "2026-05-27"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-05-27",
         "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "EASL",
-        "date": "2026-05-28",
-        "end_date": "2026-05-30"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3825,7 +4290,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3833,7 +4299,14 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
+      },
+      {
+        "title": "EASL",
+        "date": "2026-05-28",
+        "end_date": "2026-05-30",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3841,7 +4314,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3849,7 +4323,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3857,7 +4332,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3865,13 +4341,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-06-03",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3879,7 +4357,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -3887,7 +4366,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3895,7 +4375,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -3903,7 +4384,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3911,7 +4393,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3919,7 +4402,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3927,13 +4411,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-06-10",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3941,7 +4427,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -3949,11 +4436,13 @@
         "end_date": "2026-06-14",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Post call",
-        "date": "2026-06-15"
+        "date": "2026-06-15",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -3961,7 +4450,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -3969,22 +4459,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Muharram/ UEGW",
-        "date": "2026-06-17"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-06-17",
         "location_id": "office",
-        "type": "admin"
-      },
-      {
-        "title": "UEGW",
-        "date": "2026-06-18",
-        "end_date": "2026-06-20"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -3992,7 +4475,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4000,7 +4484,14 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
+      },
+      {
+        "title": "UEGW",
+        "date": "2026-06-18",
+        "end_date": "2026-06-20",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4008,7 +4499,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4016,11 +4508,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Indigenous Day",
-        "date": "2026-06-21"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4028,7 +4517,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4036,7 +4526,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4044,7 +4535,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4052,13 +4544,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-06-24",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -4066,11 +4560,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Ashura",
-        "date": "2026-06-26"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4078,7 +4569,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4086,7 +4578,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4094,7 +4587,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4102,7 +4596,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4110,11 +4605,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Canada Day",
-        "date": "2026-07-01"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4122,7 +4614,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4130,7 +4623,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4138,7 +4632,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4146,7 +4641,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4154,7 +4650,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4162,13 +4659,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-07-08",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4176,7 +4675,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4184,7 +4684,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4192,7 +4693,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4200,7 +4702,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4208,13 +4711,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-07-15",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -4222,7 +4727,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4230,7 +4736,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4238,7 +4745,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4246,7 +4754,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo on call",
@@ -4254,14 +4763,16 @@
         "end_date": "2026-07-24",
         "location_id": "work",
         "type": "on_call",
-        "label": "Endo"
+        "label": "Endo",
+        "busy": true
       },
       {
         "title": "On call",
         "date": "2026-07-21",
         "end_date": "2026-07-21",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4269,14 +4780,16 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "On call",
         "date": "2026-07-23",
         "end_date": "2026-07-23",
         "location_id": "work",
-        "type": "on_call"
+        "type": "on_call",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4284,7 +4797,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4292,7 +4806,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4300,13 +4815,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-07-29",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4314,7 +4831,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4322,7 +4840,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4330,11 +4849,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Civic Holiday",
-        "date": "2026-08-03"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4342,7 +4858,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4350,13 +4867,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-08-05",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4364,7 +4883,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4372,7 +4892,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4380,7 +4901,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4388,7 +4910,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4396,7 +4919,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4404,7 +4928,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4412,13 +4937,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-08-12",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4426,7 +4953,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4434,7 +4962,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4442,7 +4971,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4450,7 +4980,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4458,7 +4989,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4466,7 +4998,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4474,13 +5007,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-08-19",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4488,7 +5023,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4496,7 +5032,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -4504,7 +5041,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4512,7 +5050,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4520,17 +5059,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Mawlid",
-        "date": "2026-08-26"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-08-26",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4538,7 +5075,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4546,7 +5084,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4554,7 +5093,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4562,7 +5102,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4570,7 +5111,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4578,7 +5120,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4586,13 +5129,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-09-02",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4600,7 +5145,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4608,11 +5154,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Labour Day",
-        "date": "2026-09-07"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4620,7 +5163,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4628,13 +5172,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-09-09",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4642,7 +5188,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4650,7 +5197,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4658,7 +5206,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -4666,11 +5215,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Rosh Hashana",
-        "date": "2026-09-12"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -4678,7 +5224,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4686,7 +5233,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4694,13 +5242,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-09-16",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4708,7 +5258,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4716,7 +5267,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4724,11 +5276,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Yom Kippur",
-        "date": "2026-09-21"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -4736,29 +5285,29 @@
         "end_date": "2026-09-24",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2026-09-21",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Primary on call 5:00 PM to 8:00 AM",
         "date": "2026-09-23",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Post call",
-        "date": "2026-09-25"
-      },
-      {
-        "title": "Sukkot",
-        "date": "2026-09-26"
+        "date": "2026-09-25",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4766,7 +5315,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4774,7 +5324,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4782,7 +5333,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4790,11 +5342,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Truth and Reconciliation Day",
-        "date": "2026-09-30"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4802,11 +5351,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Hoshana Rabbah",
-        "date": "2026-10-02"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4814,15 +5360,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Shemini Atzeret",
-        "date": "2026-10-03"
-      },
-      {
-        "title": "Simchat Torah",
-        "date": "2026-10-04"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4830,7 +5369,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4838,13 +5378,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-10-07",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4852,7 +5394,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4860,7 +5403,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4868,11 +5412,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Thanksgiving Day",
-        "date": "2026-10-12"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4880,7 +5421,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4888,13 +5430,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-10-14",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4902,7 +5446,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -4910,7 +5455,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4918,7 +5464,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4926,7 +5473,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4934,7 +5482,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4942,7 +5491,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4950,13 +5500,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-10-21",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4964,7 +5516,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -4972,7 +5525,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -4980,7 +5534,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -4988,7 +5543,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -4996,7 +5552,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5004,13 +5561,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-10-28",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Shared Endo",
@@ -5018,7 +5577,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -5026,11 +5586,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Daylight Savings",
-        "date": "2026-11-01"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -5038,7 +5595,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5046,13 +5604,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-11-04",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5060,7 +5620,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5068,7 +5629,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -5076,7 +5638,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5084,7 +5647,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5092,7 +5656,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5100,7 +5665,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -5108,7 +5674,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5116,15 +5683,13 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
-      },
-      {
-        "title": "Remembrance",
-        "date": "2026-11-11"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Day",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5132,7 +5697,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -5140,7 +5706,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -5148,7 +5715,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -5156,7 +5724,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5164,13 +5733,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-11-18",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5178,7 +5749,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -5186,7 +5758,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Emergent Endo",
@@ -5194,7 +5767,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5202,7 +5776,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5210,7 +5785,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -5218,7 +5794,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5226,13 +5803,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-11-25",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5240,7 +5819,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -5248,7 +5828,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5256,7 +5837,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -5264,7 +5846,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5272,13 +5855,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-12-02",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5286,7 +5871,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5294,7 +5880,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -5302,11 +5889,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Hanukkah start",
-        "date": "2026-12-05"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5314,7 +5898,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5322,7 +5907,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -5330,7 +5916,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5338,13 +5925,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-12-09",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5352,7 +5941,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -5360,11 +5950,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
-      },
-      {
-        "title": "Hanukkah end",
-        "date": "2026-12-12"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5372,7 +5959,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5380,7 +5968,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -5388,7 +5977,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5396,13 +5986,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-12-16",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5410,7 +6002,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "CCSC",
@@ -5418,7 +6011,8 @@
         "start": "0730",
         "end": "1200",
         "location_id": "work",
-        "type": "ccsc"
+        "type": "ccsc",
+        "busy": true
       },
       {
         "title": "DTP",
@@ -5426,7 +6020,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5434,7 +6029,8 @@
         "start": "0800",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "TSE Clinic",
@@ -5442,7 +6038,8 @@
         "start": "0830",
         "end": "1200",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "Clinic",
@@ -5450,13 +6047,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "clinic"
+        "type": "clinic",
+        "busy": true
       },
       {
         "title": "ADMIN DAY",
         "date": "2026-12-23",
         "location_id": "office",
-        "type": "admin"
+        "type": "admin",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5464,23 +6063,8 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
-      },
-      {
-        "title": "Christmas Day",
-        "date": "2026-12-25"
-      },
-      {
-        "title": "Kwanzaa",
-        "date": "2026-12-26"
-      },
-      {
-        "title": "Boxing day",
-        "date": "2026-12-26"
-      },
-      {
-        "title": "Lieu Stat",
-        "date": "2026-12-28"
+        "type": "endoscopy",
+        "busy": true
       },
       {
         "title": "Primary on call",
@@ -5488,7 +6072,8 @@
         "end_date": "2026-12-30",
         "location_id": "work",
         "type": "on_call",
-        "label": "Primary"
+        "label": "Primary",
+        "busy": true
       },
       {
         "title": "Endo",
@@ -5496,14 +6081,15 @@
         "start": "1230",
         "end": "1630",
         "location_id": "work",
-        "type": "endoscopy"
+        "type": "endoscopy",
+        "busy": true
       }
     ]
   },
   "metadata": {
     "name": "mazurek",
     "created": "2026-01-01T23:47:04.690385",
-    "last_updated": "2026-01-17T00:54:03.642516",
+    "last_updated": "2026-01-17T01:10:09.333111",
     "source_revised_at": "2026-01-13",
     "template_name": "mazurek",
     "template_version": "1.0"
