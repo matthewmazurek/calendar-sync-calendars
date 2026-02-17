@@ -2,5 +2,8 @@
   "name": "Templating",
   "template": "mazurek",
   "description": "Work schedule calendar",
-  "created": "2026-01-17T14:23:22.916914"
+  "created": "2026-01-17T14:23:22.916914",
+  "sync_targets": [
+    "icloud"
+  ]
 }
